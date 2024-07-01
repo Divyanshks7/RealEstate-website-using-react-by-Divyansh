@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DLF Crest",
+    "price": "6.5cr onwards",
+    "detail": "Sector 54,Golf Course Road,Gurugram,Haryana",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lodha World Towers",
+    "price": "9.5cr onwards",
+    "detail": "Lower parel,Mumbai,Maharashtra",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Prestige LakeSide Habitat",
+    "price": "1.2cr onwards",
+    "detail": "Varthur,Whitefield-Sarjapur Road,Bengaluru,Karnataka",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Assotech Pride",
+    "price": "1.5cr onwards",
+    "detail": "Plot No.274,Rudrapur,adjacent to NH 16,Bhubaneswar,Odisha",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Godrej Platinum",
+    "price": "3.2cr onwards",
+    "detail": "Pirojshanagar,vikhroli East,Mumbai,Maharashtra",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sobha Dream Acres",
+    "price": "1cr onwards",
+    "detail": "Panathur Road,Balagere,Bengaluru,Karnataka",
+    "image": "./r3.png"
+  }
+]
